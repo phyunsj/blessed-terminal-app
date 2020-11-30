@@ -9,7 +9,7 @@ Display market indexes (S&P 500, Dow Jones, Nasdaq, ... ) and most active stocks
 
 
 <p align="left">
-<img src="https://github.com/phyunsj/blessed-terminal-app/blob/master/live_stock_ticker.gif" width="600px"/>
+<img src="https://github.com/phyunsj/blessed-terminal-app/blob/main/live_stock_ticker.gif" width="600px"/>
 </p>
 
 
